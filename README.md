@@ -17,6 +17,9 @@ https://lab.quantum-computing.ibm.com/user/5f848abaff5562001ae12c12/lab
 https://quantum-computing.ibm.com/
 
 ## IBM Quantum Courses
-### [Fundamentals of Quantum Algorithms](https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms)
+### 1. [Basics of Quantum Information](https://learning.quantum-computing.ibm.com/course/basics-of-quantum-information) 
+Single systems, multiple systems, quantuam circuits, entanglement.
+
+### 2. [Fundamentals of Quantum Algorithms](https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms)
 
 
