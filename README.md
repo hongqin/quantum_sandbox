@@ -19,7 +19,7 @@ https://quantum-computing.ibm.com/
 ## IBM Quantum Courses
 ### 1. [Basics of Quantum Information](https://learning.quantum-computing.ibm.com/course/basics-of-quantum-information) 
 Single systems, multiple systems, quantuam circuits, entanglement.
-
-### 2. [Fundamentals of Quantum Algorithms](https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms)
+### 2. [Quantum Circuits through IBM Quantum Composer](https://quantum-computing.ibm.com/composer)
+### 3. [Fundamentals of Quantum Algorithms](https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms)
 
 
