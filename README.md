@@ -16,7 +16,7 @@ https://lab.quantum-computing.ibm.com/user/5f848abaff5562001ae12c12/lab
 ## IBM Quantum Platform
 https://quantum-computing.ibm.com/
 
-### Fundamentals of Quantum Algorithms
-https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms
+## IBM Quantum Courses
+### [Fundamentals of Quantum Algorithms](https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms)
 
 
