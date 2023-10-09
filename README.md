@@ -22,4 +22,13 @@ Single systems, multiple systems, quantuam circuits, entanglement.
 ### 2. [Quantum Circuits through IBM Quantum Composer](https://quantum-computing.ibm.com/composer)
 ### 3. [Fundamentals of Quantum Algorithms](https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms)
 
+## Selected papers for reaching
+Quantum gene regulatory networks https://www.nature.com/articles/s41534-023-00740-6   
+
+Equivariant quantum circuits for learning on weighted graphs https://www.nature.com/articles/s41534-023-00710-y
+
+A machine learning approach to Bayesian parameter estimation https://www.nature.com/articles/s41534-021-00497-w
+
+ 
+
 
