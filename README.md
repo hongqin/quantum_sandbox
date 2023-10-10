@@ -22,6 +22,13 @@ Single systems, multiple systems, quantuam circuits, entanglement.
 ### 2. [Quantum Circuits through IBM Quantum Composer](https://quantum-computing.ibm.com/composer)
 ### 3. [Fundamentals of Quantum Algorithms](https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms)
 
+
+## Deutsch's Algorithm, IBM tutorial
+
+https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms#deutschs-algorithmLinks to an external site. 
+
+https://github.com/hongqin/quantum_sandbox/blob/main/deutsch_algorith.ipynbLinks to an external site. 
+
 ## Selected papers for reaching
 Quantum gene regulatory networks https://www.nature.com/articles/s41534-023-00740-6   
 
