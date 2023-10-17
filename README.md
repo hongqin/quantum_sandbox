@@ -25,9 +25,13 @@ Single systems, multiple systems, quantuam circuits, entanglement.
 
 ## Deutsch's Algorithm, IBM tutorial
 
-https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms#deutschs-algorithmLinks to an external site. 
+* https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms#deutschs-algorithmLinks to an external site. 
 
-https://github.com/hongqin/quantum_sandbox/blob/main/deutsch_algorith.ipynbLinks to an external site. 
+* https://github.com/hongqin/quantum_sandbox/blob/main/deutsch_algorith.ipynbLinks to an external site. 
+
+## Deutsch Jozsa problem
+* https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms/quantum-query-algorithms#the-deutsch-jozsa-algorithm
+
 
 ## Grover's algorithm
 
