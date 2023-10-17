@@ -30,6 +30,12 @@ https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algori
 https://github.com/hongqin/quantum_sandbox/blob/main/deutsch_algorith.ipynbLinks to an external site. 
 
 ## Grover's algorithm
+
+https://learn.qiskit.org/course/ch-algorithms/grovers-algorithm
+
+https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms/grovers-algorithm
+
+* terrible video
 https://www.google.com/search?sca_esv=573990738&sxsrf=AM9HkKn5xNhcSQRwM-1PHANxzKPboR16sQ:1697513905563&q=grover%27s+algorithm&tbm=vid&source=lnms&sa=X&ved=2ahUKEwi7nd6KlPyBAxW_g4kEHZt_DI8Q0pQJegQICxAB&biw=1753&bih=840&dpr=2#fpstate=ive&vld=cid:1b17b7bb,vid:IT-O-KSWlaE,st:0
 
 ## Selected papers for reaching
