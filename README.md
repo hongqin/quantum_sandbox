@@ -52,5 +52,5 @@ Equivariant quantum circuits for learning on weighted graphs https://www.nature.
 A machine learning approach to Bayesian parameter estimation https://www.nature.com/articles/s41534-021-00497-w
 
  
-
+Α Quantum Pattern Recognition Method for Improving Pairwise Sequence Alignment https://www.nature.com/articles/s41598-019-43697-3#:~:text=The%20alignment%20process%20rearranges%20sequences,to%20achieve%20the%20optimal%20matching. 
 
