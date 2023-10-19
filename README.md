@@ -55,3 +55,14 @@ A machine learning approach to Bayesian parameter estimation https://www.nature.
 
 A biological sequence comparison algorithm using quantum computers https://www.nature.com/articles/s41598-023-41086-5
 
+Quantum Finite Automa Introduction:  https://arxiv.org/abs/1406.4048
+
+A Quantum Finite Automata Approach to Modeling the Chemical Reactions https://www.frontiersin.org/articles/10.3389/fphy.2020.547370/full
+
+Quantum machine learning and case studies  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9955545/
+
+Cross-Layer Device Authentication With Quantum Encryption for 5G Enabled IIoT in Industry 4.0 https://ieeexplore.ieee.org/abstract/document/9625846?casa_token=UEiNy5BRg6IAAAAA:urcSV9-Ynn_mMn_2Y7NtP_7ux1U2_MiWsQJcSd8AoMYy3CdYCeb0tvcli85Ob4qoU1Qjn9Io9w
+
+Taking advantage of noise in quantum reservoir computing https://www.nature.com/articles/s41598-023-35461-5
+
+Efficient noise mitigation technique for quantum computing https://www.nature.com/articles/s41598-023-30510-5 
