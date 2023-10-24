@@ -68,3 +68,8 @@ Cross-Layer Device Authentication With Quantum Encryption for 5G Enabled IIoT in
 Taking advantage of noise in quantum reservoir computing https://www.nature.com/articles/s41598-023-35461-5
 
 Efficient noise mitigation technique for quantum computing https://www.nature.com/articles/s41598-023-30510-5 
+
+
+## References
+* https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/download/
+
