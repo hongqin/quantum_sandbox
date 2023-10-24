@@ -37,7 +37,7 @@ Single systems, multiple systems, quantuam circuits, entanglement.
 
 * a simple tutorial https://github.com/primaryobjects/oracle
 
-# A math version, chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/88bfbfb6232fd0efd0c307d07ce96cc7_qc_lec11.pdf
+* A math version, chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/88bfbfb6232fd0efd0c307d07ce96cc7_qc_lec11.pdf
 
 * https://learn.qiskit.org/course/ch-algorithms/grovers-algorithm
 
