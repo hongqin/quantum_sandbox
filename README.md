@@ -37,6 +37,8 @@ Single systems, multiple systems, quantuam circuits, entanglement.
 
 * a simple tutorial https://github.com/primaryobjects/oracle
 
+* A math version, chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/88bfbfb6232fd0efd0c307d07ce96cc7_qc_lec11.pdf
+
 * https://learn.qiskit.org/course/ch-algorithms/grovers-algorithm
 
 * https://learning.quantum-computing.ibm.com/course/fundamentals-of-quantum-algorithms/grovers-algorithm
@@ -50,7 +52,24 @@ Quantum gene regulatory networks https://www.nature.com/articles/s41534-023-0074
 Equivariant quantum circuits for learning on weighted graphs https://www.nature.com/articles/s41534-023-00710-y
 
 A machine learning approach to Bayesian parameter estimation https://www.nature.com/articles/s41534-021-00497-w
-
  
+Α Quantum Pattern Recognition Method for Improving Pairwise Sequence Alignment https://www.nature.com/articles/s41598-019-43697-3#:~:text=The%20alignment%20process%20rearranges%20sequences,to%20achieve%20the%20optimal%20matching. 
 
+A biological sequence comparison algorithm using quantum computers https://www.nature.com/articles/s41598-023-41086-5
+
+Quantum Finite Automa Introduction:  https://arxiv.org/abs/1406.4048
+
+A Quantum Finite Automata Approach to Modeling the Chemical Reactions https://www.frontiersin.org/articles/10.3389/fphy.2020.547370/full
+
+Quantum machine learning and case studies  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9955545/
+
+Cross-Layer Device Authentication With Quantum Encryption for 5G Enabled IIoT in Industry 4.0 https://ieeexplore.ieee.org/abstract/document/9625846?casa_token=UEiNy5BRg6IAAAAA:urcSV9-Ynn_mMn_2Y7NtP_7ux1U2_MiWsQJcSd8AoMYy3CdYCeb0tvcli85Ob4qoU1Qjn9Io9w
+
+Taking advantage of noise in quantum reservoir computing https://www.nature.com/articles/s41598-023-35461-5
+
+Efficient noise mitigation technique for quantum computing https://www.nature.com/articles/s41598-023-30510-5 
+
+
+## References
+* https://ocw.mit.edu/courses/18-435j-quantum-computation-fall-2003/download/
 
