@@ -46,7 +46,10 @@ Single systems, multiple systems, quantuam circuits, entanglement.
 * terrible video
 https://www.google.com/search?sca_esv=573990738&sxsrf=AM9HkKn5xNhcSQRwM-1PHANxzKPboR16sQ:1697513905563&q=grover%27s+algorithm&tbm=vid&source=lnms&sa=X&ved=2ahUKEwi7nd6KlPyBAxW_g4kEHZt_DI8Q0pQJegQICxAB&biw=1753&bih=840&dpr=2#fpstate=ive&vld=cid:1b17b7bb,vid:IT-O-KSWlaE,st:0
 
-## Selected papers for reaching
+## Shor's algorithm
+
+
+## Selected papers for reading
 Quantum gene regulatory networks https://www.nature.com/articles/s41534-023-00740-6   
 
 Equivariant quantum circuits for learning on weighted graphs https://www.nature.com/articles/s41534-023-00710-y
