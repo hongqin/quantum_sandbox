@@ -49,6 +49,7 @@ https://www.google.com/search?sca_esv=573990738&sxsrf=AM9HkKn5xNhcSQRwM-1PHANxzK
 
 * Example of 15. https://github.com/hongqin/quantum_sandbox/blob/main/Shor.ipynb
 * Good example of factoring 314191 https://youtu.be/FRZQ-efABeQ?feature=shared
+* Quantum Fourier Transformation
 
 ## Selected papers for reading
 Quantum gene regulatory networks https://www.nature.com/articles/s41534-023-00740-6   
