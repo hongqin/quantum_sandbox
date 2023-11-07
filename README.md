@@ -47,6 +47,7 @@ https://www.google.com/search?sca_esv=573990738&sxsrf=AM9HkKn5xNhcSQRwM-1PHANxzK
 
 ## Shor's algorithm
 
+* Example of 15. https://github.com/hongqin/quantum_sandbox/blob/main/Shor.ipynb
 * Good example of factoring 314191 https://youtu.be/FRZQ-efABeQ?feature=shared
 
 ## Selected papers for reading
